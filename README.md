@@ -11,6 +11,8 @@
       - State Management Pattern (Pinia and VueX)
       - Presentation and Container Components
       - Design Patterns
+    - Flutter
+      - Simple CRUD
     - End-to-End Tests with Cypress
   - DevOps:
     - AWS (EKS Cluster)
