@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fenixrhiulta
-- 👀 I’m interested in .NET and MicroServices
+- 👀 I’m interested in .NET, MicroServices and Cloud
 - 🌱 I’m currently learning :
   - Back-end
     - Mastering Software Testing [.NET Course](https://desenvolvedor.io/curso/dominando-os-testes-de-software)
