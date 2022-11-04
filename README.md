@@ -4,7 +4,7 @@
   - Back-end
     - Mastering Software Testing [.NET Course](https://desenvolvedor.io/curso/dominando-os-testes-de-software)
   - Front-end
-    - Vue3 (Nuxt (SSR))
+    - Vue3 (Nuxt)
 - :open_book: Reading the book: [Implementing Domain-Driven Design - Vaughn Vernon](https://www.amazon.com.br/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
 
 <!---
